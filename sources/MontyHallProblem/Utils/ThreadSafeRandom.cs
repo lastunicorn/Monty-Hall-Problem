@@ -16,7 +16,7 @@
 
 using System;
 
-namespace MontyHallProblem
+namespace DustInTheWind.MontyHallProblem.Utils
 {
     public class ThreadSafeRandom
     {

@@ -14,12 +14,11 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-namespace MontyHallProblem
+namespace DustInTheWind.MontyHallProblem.GameModel
 {
-    internal enum GameState
+    internal enum GameStrategy
     {
-        WaitingPlayerToPickDoor,
-        WaitingPlayerToSwitchDoors,
-        Finished
+        AlwaysSwitch,
+        AlwaysKeep
     }
 }

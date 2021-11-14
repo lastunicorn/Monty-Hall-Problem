@@ -16,8 +16,9 @@
 
 using System;
 using DustInTheWind.ConsoleTools.Spinners;
+using DustInTheWind.MontyHallProblem.GameModel;
 
-namespace MontyHallProblem
+namespace DustInTheWind.MontyHallProblem
 {
     internal class Program
     {

@@ -16,8 +16,9 @@
 
 using System;
 using System.Linq;
+using DustInTheWind.MontyHallProblem.Utils;
 
-namespace MontyHallProblem
+namespace DustInTheWind.MontyHallProblem.GameModel
 {
     internal class MontyHallGame
     {

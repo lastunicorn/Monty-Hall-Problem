@@ -17,8 +17,9 @@
 using System;
 using System.ComponentModel;
 using System.Linq;
+using DustInTheWind.MontyHallProblem.Utils;
 
-namespace MontyHallProblem
+namespace DustInTheWind.MontyHallProblem.GameModel
 {
     internal class GameSet
     {
